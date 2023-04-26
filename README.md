@@ -7,3 +7,13 @@ Steps:
 - Clean and pre-process your posts or tweets.
 - Fit an LDA topic model.
 - Interpret the topics found.
+
+Some relevant papers: 
+“Mommy Blogs” and the Vaccination Exemption Narrative: Results From A Machine-Learning Approach for Story Aggregation on Parenting Social Media Sites 
+https://publichealth.jmir.org/2016/2/e166/
+
+Using social media Reddit data to examine foster families' concerns and needs during COVID-19
+https://www.sciencedirect.com/science/article/pii/S0145213421003355
+
+Text mining of Reddit posts: Using latent Dirichlet allocation to identify common parenting issues
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262529
